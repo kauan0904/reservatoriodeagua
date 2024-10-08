@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\bin\Debug\net8.0\reservatoriodeagua.exe
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\bin\Debug\net8.0\reservatoriodeagua.deps.json
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\bin\Debug\net8.0\reservatoriodeagua.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\bin\Debug\net8.0\reservatoriodeagua.dll
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\bin\Debug\net8.0\reservatoriodeagua.pdb
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\reservatoriodeagua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\reservatoriodeagua.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\reservatoriodeagua.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\reservatoriodeagua.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\reservatoriodeagua.sourcelink.json
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\reservatoriodeagua.dll
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\refint\reservatoriodeagua.dll
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\reservatoriodeagua.pdb
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\reservatoriodeagua.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\Kaun 0904\reservatoriodeagua\reservatoriodeagua\obj\Debug\net8.0\ref\reservatoriodeagua.dll
